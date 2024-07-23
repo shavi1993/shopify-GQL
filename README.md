@@ -35,4 +35,3 @@ It script that takes input product names and fetches the appropriate products th
    # Replace <product_name> with the name of the product you want to search for.
    node app.js --name <product_name>
    ```
-# shopify-GQL
