@@ -4,7 +4,7 @@ It script that takes input product names and fetches the appropriate products th
 
 ## Setup Instructions
 
-1. **Copy Environment Variables:**
+1. **Copy Environment Variables:** 
 
    - Duplicate `.env.example` and rename it to `.env`.
    - Replace values with your orignal Shopify store URL, admin token, and API version.
